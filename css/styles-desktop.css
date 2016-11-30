@@ -1,0 +1,23 @@
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+.header .logo svg
+{
+	margin-top: 25px;
+	width: 25em;
+}
+
+.header .title
+{
+	font-size: 60px;
+}
+

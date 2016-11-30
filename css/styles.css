@@ -1,0 +1,55 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+	font-size: 1.4em;
+}
+
+h2 {
+	font-size: 21px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+h4 {
+	font-size: 14px;
+}
+
+hr {
+	border-top: 5px solid #adadad;
+}
+
+a {
+	color: #747704;
+}
+
+a:hover {
+	color: #adadad;
+}
+
+.text-muted {
+	color: #908d8d;
+	font-weight: bold;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.header .logo svg
+{
+	margin-top: 20px;
+	width: 10em;
+}
+
+.header .title
+{
+	font-size: 23px;
+}
+
+.featured {
+	margin-bottom: 40px;
+}
+
